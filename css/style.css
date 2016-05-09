@@ -1247,6 +1247,7 @@ article > ul > li{
 	margin: 0 auto 12px auto;
 	border: 3px solid #ccc;
 	border-radius: 100px;
+	background-size: cover;
 }
 .faculty > li > h3 {
 	font: 600 14px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;	
