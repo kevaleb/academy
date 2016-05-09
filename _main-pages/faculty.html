@@ -1,0 +1,22 @@
+---
+layout: default
+title: Faculty
+description: 
+permalink: /faculty/
+navtitle: facutly
+navclass: faculty
+---
+<div class="banner half blog-post" style="background-image: url(/images/banners/blog-banner.jpg);">
+	<hgroup class="">
+		<h1 class="editable">Faculty</h1>
+	</hgroup>
+</div>
+
+<ul class="faculty">		
+	{% for teacher in site.teachers %}
+		<li>
+			<div class="photo" style="background-image: url({{ teacher.photo_path }});"></div>
+			<h3>{{ teacher.name }}</h3>
+		</li>
+	{% endfor %}
+</ul>

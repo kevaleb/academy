@@ -1,0 +1,26 @@
+---
+layout: default
+navclass: courses
+---
+<div class="banner half" style="background-image: url( {{ page.banner_path }} );">
+	<hgroup class="">
+		<h1 class="editable">{{ page.title }}</h1>
+	</hgroup>
+</div>
+
+<ul class="blogposts">		
+	{% for post in site.posts %}
+		{% if post.course == page.title %}
+			<li>
+				<a href="{{ post.url }}">
+					<div class="postbanner" style="background-image: url({{ post.bannerimage }});"></div>
+					<h2>{{ post.title }}</h2>
+					{{ post.excerpt }}
+				</a>
+			</li>
+			
+		{% else %}
+			<p>Sorry, there are currently no posts for this course.</p>
+		{% endif %}
+	{% endfor %}
+</ul>

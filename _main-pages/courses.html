@@ -1,0 +1,19 @@
+---
+layout: default
+title: Courses
+description: 
+permalink: /courses/
+navtitle: courses
+navclass: courses
+---
+<div class="banner half" style="background-image: url( {{ page.banner_path }} );">
+	<hgroup>
+		<h1 class="editable">Courses</h1>
+	</hgroup>
+</div>
+
+<ul class="courses">		
+	{% for course in site.courses %}
+		<li><a href="{{ course.url }}">{{ course.title }}</a></li>
+	{% endfor %}
+</ul>

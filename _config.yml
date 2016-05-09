@@ -1,0 +1,8 @@
+name: Centennial Academy
+collections:
+  main-pages:
+    output: true
+  teachers:
+    output: true
+  courses:
+    output: true
