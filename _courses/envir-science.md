@@ -1,5 +1,7 @@
 ---
 layout: course
-title: Envir Science
+title: Environmental Science
 teacher: kevin-lebaron
 ---
+
+
