@@ -4,7 +4,7 @@ title: Back To School Schedule 2016
 post_date:
 course:
 permalink:
-bannerimage:
+banner_path:
 ---
 
 
