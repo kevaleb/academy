@@ -1,8 +1,34 @@
 ---
 layout: article
-title: Back To School 2016 Schedule
-post_date: 12/13/16
+title: Back To School Schedule 2016
+post_date: 2016-12-13T00:00:00.000Z
 course:
 permalink:
 bannerimage:
 ---
+
+
+**Monday, August 29th**
+
+* Online registration for qualified students opens.
+
+
+**Wednesday, August 31 (AM)**
+
+* Registration & Orientation for Sophomores & New students.
+
+
+**Wednesday, August 31 (PM)**
+
+* Online registration for new students
+* Advisor meetings for students not qualified for online registration
+
+
+**August 29 - September 4**
+
+* Open online registration
+
+
+**Tuesday, September 6**
+
+* First day of school
