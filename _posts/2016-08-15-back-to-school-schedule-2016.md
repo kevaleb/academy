@@ -8,6 +8,10 @@ bannerimage:
 ---
 
 
+It's that time of year again.
+
+&nbsp;
+
 **Monday, August 29th**
 
 * Online registration for qualified students opens.
