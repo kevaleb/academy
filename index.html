@@ -2,10 +2,13 @@
 layout: default
 title: Centennial Academy
 description:
+banner_path: /images/banners/academy.jpg
 ---
-<div class="banner home">
+<div class="banner half" style="background-image: url({{ page.banner_path }});">
 	<hgroup>
-		<h1 class="editable">Centennial Academy</h1>
+		<h1 class="editable" style="text-align: center;">Centennial Academy</h1>
+		<br />
+		<a href="#" class="button outline">Register Online</a>
 	</hgroup>
 </div>
 
@@ -13,7 +16,7 @@ description:
 	{% for post in site.posts %}
 		<li>
 			<a href="{{ post.url }}">
-				<div class="postbanner" style="background-image: url({{ post.bannerimage }});"></div>
+				<div class="postbanner" style="background-image: url({{ post.banner_path }});"></div>
 				<!--<h3>{{ post.category }}-->
 				<h2>{{ post.title }}</h2>
 				{{ post.excerpt }}

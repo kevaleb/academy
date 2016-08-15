@@ -8,7 +8,7 @@ banner_path: /images/banners/back-to-school.jpg
 ---
 
 
-It's that time of year again.
+It's that time of year again. Here is the schedule for getting registered, oriented, etc. If you have any questions, concerns, comments or just need someone to talk to please don't hesitate to contact Pauline any time day or night.
 
 
 

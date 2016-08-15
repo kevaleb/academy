@@ -1,8 +1,8 @@
 ---
 layout: article
 title:
-post_date: 12/13/16
+post_date:
 course: 
 permalink: 
-bannerimage:
+banner_path:
 ---
