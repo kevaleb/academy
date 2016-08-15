@@ -4,13 +4,13 @@ title: Back To School Schedule 2016
 post_date:
 course:
 permalink:
-banner_path:
+banner_path: /images/banners/back-to-school.jpg
 ---
 
 
 It's that time of year again.
 
-&nbsp;
+
 
 **Monday, August 29th**
 
